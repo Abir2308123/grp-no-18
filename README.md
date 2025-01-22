@@ -1,0 +1,2 @@
+# grp-no-18
+ROCK PAPER SCISSORS : A C PROGRAM
